@@ -10,5 +10,6 @@ Este repositorio se elaboro para la materia de Datos Masivos, de la Maestría en
 
 - [Tarea 1](/Tarea_1.ipynb)
 - [Tarea 2](/Tarea_2.ipynb)
+- [Tarea 3](/Tarea_3.ipynb)
   
  *La lista se ira actualizando conforme se realicen el resto de tareas*
