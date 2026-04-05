@@ -11,6 +11,6 @@ Este repositorio se elaboro para la materia de Datos Masivos, de la Maestría en
 - [Tarea 1](/Tarea_1.ipynb)
 - [Tarea 2](/Tarea_2.ipynb)
 - [Tarea 3](/Tarea_3.ipynb)
-- [Tarea 4-5]([/Tarea_4-5.ipynb](https://github.com/Leonardogamu/mcd---datosmasivos2026/blob/main/Tarea%204-5/Tarea_4-5.ipynb))
+- [Tarea 4-5](https://github.com/Leonardogamu/mcd---datosmasivos2026/blob/main/Tarea%204-5/Tarea4-5.pdf)
   
  *La lista se ira actualizando conforme se realicen el resto de tareas*
